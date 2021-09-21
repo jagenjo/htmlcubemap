@@ -5,7 +5,7 @@ A simple class to embed a panoramic view in a website from six pictures
 
 Just call from javascript:
 ```js
-		var cubemap = new HTMLCubemap("imgs/301_01_01_",".png","cubemap", {low_post_url: "_tn.png", width: 512,height: 512});
+var cubemap = new HTMLCubemap("imgs/301_01_01_",".png","cubemap", {low_post_url: "_tn.png", width: 512,height: 512});
 ```
 
 Where params are:

@@ -1,5 +1,6 @@
 # htmlcubemap
-A simple class to embed a panoramic view in a website from six pictures
+A simple class to embed a panoramic view in a website from six pictures.
+It uses CSS with transforms.
 
 [Demo here](https://tamats.com/projects/htmlcubemap/demo/)
 
